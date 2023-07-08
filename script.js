@@ -41,7 +41,7 @@ const music_list = [{
     {
         img: 'images/4.JPG',
         // name: '',
-        artist: 'Hey Girl,Are you Masterpeice Coz',
+        artist: 'Hey Girl,You are Masterpeice Coz',
         music: 'music/Itni Kyu Khubsurat ho.mp3'
     },
     {
@@ -63,7 +63,7 @@ const music_list = [{
     }, {
         img: 'images/8.jpg',
         // name: 'Faded',
-        artist: 'If you feel! After getting angry, I will leave you, then listen to this',
+        artist: 'If you feel!I will leave you after getting angry, , then listen to this',
         music: 'music/Jo ruthe bhi to.mp3'
     }, {
         img: 'images/9.jpg',
