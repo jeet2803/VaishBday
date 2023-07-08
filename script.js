@@ -78,7 +78,7 @@ const music_list = [{
     }, {
         img: 'images/12.jpg',
         // name: 'Faded',
-        artist: 'When you are Feeling Low',
+        artist: 'When you Feel Low then i am there for you',
         music: 'music/akho se batana.mp3'
     },
 
