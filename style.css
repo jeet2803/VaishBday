@@ -337,7 +337,7 @@ p {
 }
 
 .main-text {
-    padding-top: 45px;
+    padding-top: 35px;
     text-align: center;
     color: whitesmoke;
     text-shadow: #1595be;
@@ -350,6 +350,7 @@ p {
     text-align: center;
     text-shadow: #1595be;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 25px;
 }
 
 .main-text3 {
