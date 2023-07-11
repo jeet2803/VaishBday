@@ -111,7 +111,7 @@
     font-weight: bold;
     display: flex;
     flex-direction: column;
-    padding: 11px 203px;
+    padding: 3px 203px;
     height: 1040px;
     justify-content: center;
     align-items: center;
@@ -345,12 +345,12 @@ p {
 }
 
 .main-text2 {
-    padding-bottom: 35px;
+    padding-bottom: 25px;
     color: whitesmoke;
     text-align: center;
     text-shadow: #1595be;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding-top: 80px;
+/*     padding-top: 80px; */
 }
 
 .main-text3 {
