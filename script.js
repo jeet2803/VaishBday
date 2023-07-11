@@ -45,12 +45,6 @@ const music_list = [{
         music: 'music/Itni Kyu Khubsurat ho.mp3'
     },
     {
-        img: 'images/5.jpg',
-        // name: 'Rather Be',
-        artist: 'Describing you(The Real one)',
-        music: 'music/rani jhukti nahi he.mp3'
-    },
-    {
         img: 'images/6.jpg',
         // name: 'Faded',
         artist: 'When we are gossiping',
@@ -80,6 +74,12 @@ const music_list = [{
         // name: 'Faded',
         artist: 'When you Feel Low then i am there for you',
         music: 'music/akho se batana.mp3'
+    },
+        {
+        img: 'images/5.jpg',
+        // name: 'Rather Be',
+        artist: 'Describing you, The Real one',
+        music: 'music/rani jhukti nahi he.mp3'
     },
 
 ];
